@@ -10,6 +10,10 @@ https://github.com/identinetics
 https://github.com/rhoerbe
 https://github.com/ukf
 https://github.com/iay
+https://github.com/toyokazu/
+https://github.com/zendesk/samlr
+https://github.com/onelogin/
+https://github.com/weblicht/
 
 
 https://wiki.geant.org/display/GREEN/Open+Source+Software+in+NRENs
