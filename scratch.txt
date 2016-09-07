@@ -6,6 +6,10 @@ https://github.com/nginx-shib
 https://github.com/rohe
 https://github.com/GSA
 https://github.com/leifj
+https://github.com/identinetics
+https://github.com/rhoerbe
+https://github.com/ukf
+https://github.com/iay
 
 
 https://wiki.geant.org/display/GREEN/Open+Source+Software+in+NRENs
