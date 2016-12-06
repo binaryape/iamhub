@@ -10,6 +10,7 @@ https://github.com/identinetics
 https://github.com/rhoerbe
 https://github.com/ukf
 https://github.com/iay
+https://github.com/jbasney
 https://github.com/toyokazu/
 https://github.com/zendesk/samlr
 https://github.com/onelogin/
