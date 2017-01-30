@@ -22,5 +22,6 @@ https://github.com/SUNET
 https://github.com/indigo-iam
 https://github.com/WebOfTrustInfo
 https://github.com/lsc-project 
+https://github.com/italiangrid
 
 https://wiki.geant.org/display/GREEN/Open+Source+Software+in+NRENs
