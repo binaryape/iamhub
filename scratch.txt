@@ -20,6 +20,7 @@ https://github.com/AARCProject
 https://github.com/GEANT
 https://github.com/SUNET
 https://github.com/indigo-iam
+https://github.com/indigo-dc
 https://github.com/WebOfTrustInfo
 https://github.com/lsc-project 
 https://github.com/italiangrid
